@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/Iamfromsichuan/vuemock/issues"
   },
-  "homepage": "https://github.com/Iamfromsichuan/vuemock#readme"
+  "homepage": "https://github.com/Iamfromsichuan/vuemock#readme",
+  "dependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "cross-env": "^7.0.2",
+    "rollup": "^2.8.2",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-serve": "^1.0.1"
+  }
 }
